@@ -1,5 +1,3 @@
-'use strict';
-
 const cors = require('cors');
 const fs = require('fs');
 const runner = require('../test-runner');
